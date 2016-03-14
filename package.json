@@ -25,10 +25,10 @@
     "debug": "~2.2.0",
     "express": "~4.13.1",
     "morgan": "~1.6.1",
-    "rethinkdb": "^2.2.2",
-    "rethinkdb-pool": "^1.0.0",
+    "rethinkdb": "~2.2.2",
+    "rethinkdb-pool": "~1.0.0",
     "serve-favicon": "~2.3.0",
     "socket.io": "~1.4.5",
-    "swig": "^1.4.2"
+    "swig": "~1.4.2"
   }
 }
